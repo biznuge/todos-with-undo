@@ -1,8 +1,8 @@
 # Redux Todos with Undo Example
 
-This example expands on undo with additional undo/redo of image files also in the mix.
+__This example expands on undo with additional undo/redo of image files also in the mix.__
 
-Original available at https://github.com/reduxjs/redux/tree/master/examples
+__Original available at https://github.com/reduxjs/redux/tree/master/examples__
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
